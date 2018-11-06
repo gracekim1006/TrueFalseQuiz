@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrueFalseQuiz</string>
+    <string name="take_the_quiz">TrueFalseQuiz</string>
+    <string name="begin">TrueFalseQuiz</string>
+    <string name="answer_2">TrueFalseQuiz</string>
+    <string name="answer_false">TrueFalseQuiz</string>
+</resources>

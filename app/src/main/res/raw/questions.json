@@ -1,0 +1,48 @@
+[
+  {
+    "question": "Bananas are the best fruits without a doubt.",
+    "answer": true
+  },
+
+  {
+    "question": "Lightning never strikes in the same place twice.",
+    "answer": false
+  },
+
+  {
+    "question": "If you cry in space the tears just stick to your face.",
+    "answer": true
+  },
+
+  {
+    "question": "If you cut an earthworm in half, both halves can regrow their body.",
+    "answer": false
+  },
+
+  {
+    "question": "Humans can distinguish between over a trillion different smells.",
+    "answer": true
+  },
+
+  {
+    "question": "Adults have fewer bones than babies do.",
+    "answer": true
+  },
+
+  {
+    "question": "Napoleon Bonaparte was extremely short.",
+    "answer": false
+  },
+
+  {
+    "question": "Goldfish only have a memory of three seconds.",
+    "answer": true
+  },
+
+  {
+    "question": "There are more cells of bacteria in your body than there are human cells.",
+    "answer": true
+  }
+
+
+]

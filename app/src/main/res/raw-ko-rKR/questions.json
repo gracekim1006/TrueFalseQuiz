@@ -1,0 +1,48 @@
+[
+  {
+    "question": "바나나는 의심의 여지없이 최고의 과일입니다.",
+    "answer": true
+  },
+
+  {
+    "question": "번개는 결코 같은 장소에서 두 번 치지 않습니다.",
+    "answer": false
+  },
+
+  {
+    "question": "우주에서 울면 눈물이 당신의 얼굴에만 붙어 있습니다.",
+    "answer": true
+  },
+
+  {
+    "question": "지렁이를 반으로 자르면 두 반쪽이 몸을 다시 자랄 수 있습니다.",
+    "answer": false
+  },
+
+  {
+    "question": "인간은 1 조 가지가 넘는 냄새를 구별 할 수 있습니다.",
+    "answer": true
+  },
+
+  {
+    "question": "성인은 아기보다 뼈가 적습니다.",
+    "answer": true
+  },
+
+  {
+    "question": "나폴레옹 보나파르트는 극히 짧았다.",
+    "answer": false
+  },
+
+  {
+    "question": "금붕어는 단지 3 초의 기억을 가지고 있습니다.",
+    "answer": true
+  },
+
+  {
+    "question": "당신의 몸에는 박테리아 세포가 인간 세포보다 많습니다.",
+    "answer": true
+  }
+
+
+]
